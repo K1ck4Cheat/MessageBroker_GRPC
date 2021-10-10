@@ -1,0 +1,18 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GRPC_Agent";
+
+package GRPC_Agent;
+
+
+service Notifier {
+  rpc Notify (NotifyRequest) returns (NotifyReply);
+}
+
+message NotifyRequest {
+  string content = 1;
+}
+
+message NotifyReply {
+  bool isSuccess = 1;
+}

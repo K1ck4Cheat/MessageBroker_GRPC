@@ -1,0 +1,11 @@
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\bin\Debug\net5.0\Common.deps.json
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\bin\Debug\net5.0\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\bin\Debug\net5.0\ref\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\bin\Debug\net5.0\Common.pdb
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\obj\Debug\net5.0\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\obj\Debug\net5.0\ref\Common.dll
+D:\ManualBackup\Laboratoare\AN IV\PAD\VisualStudioRepos\Agent_GRPC\Common\obj\Debug\net5.0\Common.pdb
